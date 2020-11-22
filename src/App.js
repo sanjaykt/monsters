@@ -41,7 +41,6 @@ class App extends Component {
           )
           }
         />
-        <h1>Monsters</h1>
         <CardList monsters={filteredMonsters}/>
       </div>
     );
